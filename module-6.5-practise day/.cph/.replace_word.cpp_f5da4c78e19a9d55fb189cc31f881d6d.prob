@@ -1,0 +1,1 @@
+{"name":"Local: replace_word","url":"c:\\programming\\batch 3\\C++ for DSA\\module-6.5-practise day\\replace_word.cpp","tests":[{"id":1685429536737,"input":"BRITISHEGYPTGHANA","output":"BRITISH GHANA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\programming\\batch 3\\C++ for DSA\\module-6.5-practise day\\replace_word.cpp","group":"local","local":true}
